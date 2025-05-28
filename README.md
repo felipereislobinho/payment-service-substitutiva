@@ -6,6 +6,8 @@
 Este projeto foi desenvolvido como parte do **Tech Challenge - Pós-Tech SOAT (Fase 2)**. Ele simula a transformação digital de uma empresa de revenda de veículos, oferecendo uma API robusta para gestão de produtos e vendas, além de integração com um serviço de pagamentos.
 
 
+
+
 ## 🎯 Visão de Negócio
 
 A plataforma online permite:
